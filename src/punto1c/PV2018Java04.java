@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pv2018java04;
+package punto1c;
 
-import vocal.contarVocales;
+import punto1a.contarVocales;
 
 
 /**

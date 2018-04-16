@@ -1,5 +1,5 @@
 
-package punto02;
+package punto1b;
 
 import java.util.Scanner;
 

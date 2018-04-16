@@ -9,7 +9,7 @@ devolver edad en semanas, este metodo recive una fecha de nacimiento
 y devuelve la edad de la persona en semanas
 string fechanac"01/02/1929"
  */
-package punto04;
+package punto2a;
     import java.util.Scanner;
     import java.text.SimpleDateFormat;
     import java.text.ParseException;

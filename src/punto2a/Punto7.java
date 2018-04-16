@@ -1,5 +1,5 @@
 
-package punto04;
+package punto2a;
 
 import java.text.ParseException;
 
